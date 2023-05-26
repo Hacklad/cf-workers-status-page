@@ -15,7 +15,7 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: lively-heart-a6b7.admind.workers.dev/
+  - id: lively-heart-a6b7.admind.workers.dev
     name: Welcome to Test Uptime
     url: 'https://lively-heart-a6b7.admind.workers.dev/'
     method: GET
